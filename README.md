@@ -1,2 +1,2 @@
-Building a simple to-do list in React. 
+Building a simple habit tracker app in React.  
 
